@@ -1,0 +1,22 @@
+# ANALISI DEI GRUPPI (CLUSTERING GERARCHICO E NON GERARCHICO)
+#
+mydata <- read.table("c:/Rdati/bmi.csv", header=TRUE, sep=";", row.names="Nazione") # importa i dati
+mydata # mostra i dati importati
+z <- scale(mydata) # standardizza le variabili
+z # mostra le variabili standardizzate
+#
+# clustering gerarchico con il metodo di Ward (distanza euclidea)
+#
+mat <- hclust(dist(z, method = "euclidean"), method="ward.D") # matrice delle distanze euclidee
+#
+plot(mat, main="Dendrogramma", xlab="BMI nei Paesi europei", sub="", ylab="Distanza nei valori di BMI dei cluster", cex=0.7) # traccia il dendrogramma
+rect.hclust(mat, k=4, border=c("red","blue","green","goldenrod")) # evidenzia i 4 gruppi/cluster
+#
+# clustering non gerarchico con il metodo di MacQueen (k-means )
+#
+myclust <- kmeans(z, 4, algorithm = c("MacQueen"), nstart=50) # genera i 4 gruppi/cluster
+#
+library(cluster) # carica il pacchetto
+windows() # apre una nuova finestra
+clusplot(z, myclust$cluster, color=TRUE, col.clus=c("blue","goldenrod","red","green"), shade=FALSE, labels=3, lines=0, main = "Grafico dei cluster", xlab="Componente principale 1", sub="", ylab="Componente principale 2", cex=0.6, col.txt="black", col.p="black") # grafico dei cluster per le prime due componenti principali
+#
