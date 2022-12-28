@@ -1,2 +1,3 @@
 # imparaRfacendo
-Dati e codice R per imparare facendo
+Dati per il blog imparaRfacendo
+I file di dati vanno copiati in c:\Rdati
