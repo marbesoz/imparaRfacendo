@@ -1,4 +1,2 @@
-# imparaRfacendo
-Dati per imparaRfacendo
+ImparaRfacendo
 
-I file di dati vanno copiati in C:\Rdati
