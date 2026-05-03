@@ -40,7 +40,7 @@ Analisi statistica dei dati
 3303       Coefficienti di correlazione parametrici e non parametrici    
 3304       Regressione lineare ordinaria  
 3306       Regressione lineare passante per l'origine  
-3307       Regressione lineare non parametrica 
+3307       Regressione lineare non parametrica   
 3308       Regressione lineare bayesiana  
 3309       Regressione con una funzione monotòna (isotòna)  
 3310       Regressione con una funzione monotòna (antitòna)  
