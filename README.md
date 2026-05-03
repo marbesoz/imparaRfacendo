@@ -1,7 +1,7 @@
 ImparaRfacendo
 
 Il programma e gli script  
-1001       Il programma e l'interprete di comandi 
+1001       Il programma e l'interprete di comandi   
 1002       Eseguire uno script        
 1003       Salvare uno script        
 1004       Documentazione e aiuto di R        
