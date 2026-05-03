@@ -94,7 +94,7 @@ Utilità
 5108       Ricercare una possibile correlazione (tra due variabili)  
 5109       Ricercare una possibile correlazione (tra più variabili)  
 5110       La regressione lineare: assunti e modelli  
-   Grafica
+   Grafica  
 5201       Analizzare graficamente la distribuzione di una variabile  
 5202       Tracciare barre dell'errore e limiti di confidenza  
 5203       Tracciare istogrammi e kernel density plot  
