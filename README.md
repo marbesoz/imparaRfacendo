@@ -6,7 +6,7 @@ Il programma e gli script
 1003       Salvare uno script        
 1004       Documentazione e aiuto di R        
 1005       Pacchetti aggiuntivi di statistica e grafica      
-1006       Aggiornamento di R
+1006       Aggiornamento di R  
 1007       Pulizia dell'area di lavoro e uscita dal programma     
 
 Gestione dei dati    
