@@ -83,7 +83,7 @@ Rappresentazione grafica dei dati
 4020       Grafici 3D con i dati etichettati  
 
 Utilità  
-   Statistica
+   Statistica  
 5101       La distribuzione gaussiana  
 5102       Valutare asimmetria e curtosi  
 5103       Tabulare una serie di test di normalità (gaussianità)  
