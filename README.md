@@ -10,37 +10,36 @@ Il programma e gli script
 1007       Pulizia dell'area di lavoro e uscita dal programma     
 
 Gestione dei dati    
-2001       Inserimento manuale dei dati [1]
-2002       Inserimento manuale dei dati [2] 
-2003       Inserimento manuale dei dati [3] 
-2004       Importazione dei dati da un file .csv    
-2005       Importazione dei dati da un file di solo testo
-2006       Importazione dei dati da un file .xls o .xlsx  
-2007       Gestione dei dati mancanti  
-2008       Ordinamento dei dati    
-2009       Estrazione dei dati per fattore
-2010       Esportazione dei dati in un file .csv   
-2011       Gestione delle date del calendario
+2001       Inserimento manuale dei dati [1]  
+2002       Inserimento manuale dei dati [2]  
+2003       Inserimento manuale dei dati [3]  
+2004       Importazione dei dati da un file .csv     
+2005       Importazione dei dati da un file di solo testo 
+2006       Importazione dei dati da un file .xls o .xlsx   
+2007       Gestione dei dati mancanti   
+2008       Ordinamento dei dati     
+2009       Estrazione dei dati per fattore  
+2010       Esportazione dei dati in un file .csv    
+2011       Gestione delle date del calendario  
 
-Analisi statistica dei dati 
-    Analisi di dati qualitativi
-3101       Test chi-quadrato 1 riga · n colonne    
-3102       Test chi-quadrato 2 righe · 2 colonne 
-3103       Test di Fisher
-3104       Test di McNemar     
+Analisi statistica dei dati  
+    Analisi di dati qualitativi  
+3101       Test chi-quadrato 1 riga · n colonne     
+3102       Test chi-quadrato 2 righe · 2 colonne  
+3103       Test di Fisher  
+3104       Test di McNemar       
 3105       Test chi-quadrato n righe · n colonne  
-   Analisi univariata 
-3201       Analisi esplorativa dei dati  
-3202       Test di normalità (gaussianità) 
+   Analisi univariata  
+3201       Analisi esplorativa dei dati   
+3202       Test di normalità (gaussianità)  
 3203       Statistiche elementari parametriche     
 3204       Statistiche elementari non parametriche  
    Confronto tra due campioni, correlazione e regressione 
-3301       Test parametrici e non parametrici per due campioni indipendenti  
-3302       Test parametrici e non parametrici per dati appaiati  
-3303       Coefficienti di correlazione parametrici e non parametrici  
-3304       Regressione lineare ordinaria
-3305       Regressione lineare media geometrica
-3306       Regressione lineare passante per l'origine
+3301       Test parametrici e non parametrici per due campioni indipendenti   
+3302       Test parametrici e non parametrici per dati appaiati   
+3303       Coefficienti di correlazione parametrici e non parametrici   
+3304       Regressione lineare ordinaria 
+3306       Regressione lineare passante per l'origine 
 3307       Regressione lineare non parametrica
 3308       Regressione lineare bayesiana
 3309       Regressione con una funzione monotòna (isotòna)
