@@ -39,6 +39,7 @@ Analisi statistica dei dati
 3302       Test parametrici e non parametrici per dati appaiati    
 3303       Coefficienti di correlazione parametrici e non parametrici    
 3304       Regressione lineare ordinaria  
+3305       Regressione lineare media geometrica
 3306       Regressione lineare passante per l'origine  
 3307       Regressione lineare non parametrica   
 3308       Regressione lineare bayesiana  
