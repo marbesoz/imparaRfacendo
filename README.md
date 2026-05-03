@@ -14,7 +14,7 @@ Gestione dei dati
 2002       Inserimento manuale dei dati [2]  
 2003       Inserimento manuale dei dati [3]  
 2004       Importazione dei dati da un file .csv     
-2005       Importazione dei dati da un file di solo testo 
+2005       Importazione dei dati da un file di solo testo   
 2006       Importazione dei dati da un file .xls o .xlsx   
 2007       Gestione dei dati mancanti   
 2008       Ordinamento dei dati     
