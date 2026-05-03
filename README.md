@@ -34,7 +34,7 @@ Analisi statistica dei dati
 3202       Test di normalità (gaussianità)  
 3203       Statistiche elementari parametriche     
 3204       Statistiche elementari non parametriche  
-   Confronto tra due campioni, correlazione e regressione 
+   Confronto tra due campioni, correlazione e regressione   
 3301       Test parametrici e non parametrici per due campioni indipendenti    
 3302       Test parametrici e non parametrici per dati appaiati    
 3303       Coefficienti di correlazione parametrici e non parametrici    
